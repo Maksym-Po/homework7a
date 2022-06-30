@@ -6,6 +6,4 @@ public class Client {
     int many;
     boolean hcredit;
     boolean Credit;
-
-
 }
